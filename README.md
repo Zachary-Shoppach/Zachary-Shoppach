@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Zach 👋
 
-<!--
-**Zachary-Shoppach/Zachary-Shoppach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the **University of Arkansas**, specializing in **cybersecurity**.
 
-Here are some ideas to get you started:
+- 🔐 Currently working on the Google Cybersecurity Professional Certificate and TryHackMe labs
+- 📊 Doing data analysis in Python and R
+- 🌎 Planning a study abroad semester at Universidad Carlos III de Madrid
+- 🎺 Trumpet, Razorback Marching Band
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+Python · R · ggplot2 · Excel · Linux (learning) · SQL (learning)
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/zachary-shoppach-704b98260) · Portfolio (coming soon)
