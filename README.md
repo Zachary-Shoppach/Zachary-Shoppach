@@ -11,4 +11,4 @@ Computer Science student at the **University of Arkansas**, specializing in **cy
 Python · R
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/zachary-shoppach-704b98260) · Portfolio (coming soon)
+[LinkedIn](https://www.linkedin.com/in/zachary-shoppach-704b98260) · [Portfolio](https://zachary-shoppach.github.io) · [Education & Certifications](https://zachary-shoppach.github.io/pathway.html)
