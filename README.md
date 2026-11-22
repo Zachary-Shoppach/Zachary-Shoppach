@@ -8,7 +8,7 @@ Computer Science student at the **University of Arkansas**, specializing in **cy
 - 🎺 Trumpet, Razorback Marching Band
 
 ### Tools
-Python · R · ggplot2 · Excel · Linux (learning) · SQL (learning)
+Python · R
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/zachary-shoppach-704b98260) · Portfolio (coming soon)
